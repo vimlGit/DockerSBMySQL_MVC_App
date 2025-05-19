@@ -11,7 +11,7 @@
 	<groupId>com.vimlesh</groupId>
 	<artifactId>SB-MVC-04-HMethodServiceRenderig</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>SB-MVC-08-ImageBLOB-Oracle</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
